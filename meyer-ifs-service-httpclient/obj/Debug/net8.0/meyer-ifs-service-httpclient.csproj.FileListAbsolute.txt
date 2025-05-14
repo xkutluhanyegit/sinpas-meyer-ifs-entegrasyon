@@ -1,0 +1,14 @@
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\bin\Debug\net8.0\meyer-ifs-service-httpclient.exe
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\bin\Debug\net8.0\meyer-ifs-service-httpclient.deps.json
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\bin\Debug\net8.0\meyer-ifs-service-httpclient.runtimeconfig.json
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\bin\Debug\net8.0\meyer-ifs-service-httpclient.dll
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\bin\Debug\net8.0\meyer-ifs-service-httpclient.pdb
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\obj\Debug\net8.0\meyer-ifs-service-httpclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\obj\Debug\net8.0\meyer-ifs-service-httpclient.AssemblyInfoInputs.cache
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\obj\Debug\net8.0\meyer-ifs-service-httpclient.AssemblyInfo.cs
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\obj\Debug\net8.0\meyer-ifs-service-httpclient.csproj.CoreCompileInputs.cache
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\obj\Debug\net8.0\meyer-ifs-service-httpclient.dll
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\obj\Debug\net8.0\refint\meyer-ifs-service-httpclient.dll
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\obj\Debug\net8.0\meyer-ifs-service-httpclient.pdb
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\obj\Debug\net8.0\meyer-ifs-service-httpclient.genruntimeconfig.cache
+C:\Users\kutluhan.yegit\Desktop\meyer-ifs-service-httpclient\obj\Debug\net8.0\ref\meyer-ifs-service-httpclient.dll

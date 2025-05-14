@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "meyer-ifs-service-httpclient/1.0.0": {
+        "runtime": {
+          "meyer-ifs-service-httpclient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "meyer-ifs-service-httpclient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
