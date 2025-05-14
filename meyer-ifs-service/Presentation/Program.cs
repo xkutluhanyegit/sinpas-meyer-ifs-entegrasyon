@@ -17,24 +17,11 @@ builder.Services.AddControllers();
 builder.Services.AddScoped<ICompanyPersonService, CompanyPersonService>();
 builder.Services.AddScoped<ICompanyPersonRepository, CompanyPersonRepository>();
 
-builder.Services.AddScoped<ICompanyPersonImgService, CompanyPersonImgService>();
-builder.Services.AddScoped<ICompanyPersonImgRepository, CompanyPersonImgRepository>();
-
 builder.Services.AddAuthentication("BasicAuthentication")
     .AddScheme<AuthenticationSchemeOptions, BasicAuthenticationHandler>("BasicAuthentication", null);
 builder.Services.AddAuthorization();
 
-// CORS ayarı
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowSpecificOrigin",
-        policy =>
-        {
-            policy.WithOrigins("http://localhost:7244") // İzin verilen origin buraya
-                  .AllowAnyHeader()
-                  .AllowAnyMethod();
-        });
-});
+
 
 var app = builder.Build();
 
@@ -46,9 +33,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
-app.UseCors("AllowSpecificOrigin");
-
 
 app.UseAuthentication();
 app.UseAuthorization();
